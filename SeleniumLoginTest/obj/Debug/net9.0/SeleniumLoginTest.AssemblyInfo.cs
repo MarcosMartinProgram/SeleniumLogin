@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumLoginTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+021ccaa992a55ce5c74a84668a4762f78e8a3ffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumLoginTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumLoginTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

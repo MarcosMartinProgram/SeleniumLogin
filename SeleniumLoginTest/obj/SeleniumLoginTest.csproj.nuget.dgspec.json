@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\seleniumlogintest\\SeleniumLoginTest.csproj": {}
+    "c:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\SeleniumLoginTest\\SeleniumLoginTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\seleniumlogintest\\SeleniumLoginTest.csproj": {
+    "c:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\SeleniumLoginTest\\SeleniumLoginTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\seleniumlogintest\\SeleniumLoginTest.csproj",
+        "projectUniqueName": "c:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\SeleniumLoginTest\\SeleniumLoginTest.csproj",
         "projectName": "SeleniumLoginTest",
-        "projectPath": "C:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\seleniumlogintest\\SeleniumLoginTest.csproj",
+        "projectPath": "c:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\SeleniumLoginTest\\SeleniumLoginTest.csproj",
         "packagesPath": "C:\\Users\\cotom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\seleniumlogintest\\obj\\",
+        "outputPath": "c:\\Users\\cotom\\OneDrive\\Escritorio\\SeleniumLogin\\SeleniumLoginTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
